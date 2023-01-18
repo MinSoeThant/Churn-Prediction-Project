@@ -2,6 +2,7 @@ import numpy as np
 import streamlit as st
 import pickle
 from main import X_train, y_train, X_test
+import pandas as pd 
 
 pipe = pickle.load(open(r'C:\Users\minso\pipe.pkl', 'rb'))
 pipe.fit(X_train, y_train)
