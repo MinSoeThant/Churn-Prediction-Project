@@ -4,7 +4,7 @@ import pickle
 import pandas as pd
 
 
-df = pd.read_csv(r"C:\Users\minso\OneDrive\Desktop\churn.csv", index_col='RowNumber')
+df = pd.read_csv(r"C:\Users\minso\files\churn.csv", index_col='RowNumber')
 not_churn_df = df[df['Exited'] == 0]
 churn_df = df[df['Exited'] == 1]
 
