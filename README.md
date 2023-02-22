@@ -7,7 +7,7 @@
 I will be sharing with you the thought process and methods that I have chosen to execute the project.
 
 Univariate, bivariate and multivariate analysis are conducted to perform exploratory data analysis.
-. ivariate Analysis
+Univariate Analysis
 - Firstly, mean, median, variance and standard deviation value is analysed.
 - Secondly, I analysed the data to find out whether it follows a normal distribution using kde and histogram plot.
 - Kde and histogram plot is used to show how the data plotted are equally distributed and fits a bell curve.
