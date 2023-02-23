@@ -2,6 +2,21 @@
 ### Introduction
 - To identify and select the features that affects customer churn
 - To build a suitable model with high predictability on customer churn for deployment
+### About Dataset
+#### Features:
+- Surname: Surname
+- CreditScore: Credit score
+- Geography: Country (Germany / France / Spain)
+- Gender: Gender (Female / Male)
+- Age: Age
+- Tenure: How many years of customer
+- Balance: Balance
+- NumOfProducts: Bank product used
+- HasCrCard: Credit card status (0 = No, 1 = Yes)
+- IsActiveMember: Active membership status (0 = No, 1 = Yes)
+- EstimatedSalary: Estimated salary
+- Exited: Churn or Not Churn (0 = No, 1 = Yes)
+
 
 ## Thought Process 
 I will be sharing with you the thought process and methods that I have chosen to execute the project.
