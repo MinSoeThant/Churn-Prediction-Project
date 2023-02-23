@@ -35,4 +35,8 @@ Saving Model for deployment
 
 Model Deployment
 - I have used Streamlit as a mean to deploy the model.
-- I have difficulty in deploying model to Streamlit Cloud due to the errors that occurred in it. Therefore, I have chosen to deploy the model on the local host cmd terminal with a screen recording instead of deploying it to Streamlit Cloud.
+- I have difficulty in deploying model to Streamlit Cloud due to the errors that occurred in it. Therefore, I have chosen to deploy the model on the local host cmd terminal with a screen recording as an alternative.
+- I have used the same data from the excel into the prediction model to show that it is working correctly. 
+
+Model Deployment Video
+- Link: https://clipchamp.com/watch/kuMn13qORag
